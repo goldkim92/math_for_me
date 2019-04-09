@@ -5,7 +5,7 @@
 ----
 For any real matrix $$A$$ and any vectors $$x$$ and $$x$$, we have
 
-$$\left<Ax,y\right>=\left<x,A^Ty\right>$$
+\left<Ax,y\right>=\left<x,A^Ty\right>
 
 Now assume that $$A$$ is symmetric, and $$x$$ and $$y$$ are eigenvectors of $$A$$ corresponding to distinct eigenvalues $$\mu$$ and $$\lambda$$. Then
 

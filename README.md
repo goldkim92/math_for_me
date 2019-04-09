@@ -1,7 +1,7 @@
 # math_for_me #
 
 
-- Eigenvectors of real symmetric matrices are orthogonal : 
+- Real symmetric matrices have orthogonal eigenvectors : 
 [this](https://math.stackexchange.com/questions/82467/eigenvectors-of-real-symmetric-matrices-are-orthogonal)
 
 - Real symmetric matrices have real eigenvalues : 
@@ -16,7 +16,7 @@
 - exponential term in Gaussian distribution can be seen as *Mahalanobis distance* : 
 see PRML p80.
 
-
+- 
 
 
 

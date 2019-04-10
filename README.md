@@ -13,14 +13,17 @@
 - eigenvalues of positive definite matrices are positive : 
 [proof](https://yutsumura.com/positive-definite-real-symmetric-matrix-and-its-eigenvalues/)
 
+- determinant of matrix is equal to the product of its eigenvalues : 
+[proof](https://math.stackexchange.com/questions/507641/show-that-the-determinant-of-a-is-equal-to-the-product-of-its-eigenvalues) 
+using [characteristic polynomial of a square matrix](https://en.wikipedia.org/wiki/Characteristic_polynomial)
+
 - exponential term in Gaussian distribution can be seen as *Mahalanobis distance* : 
 PRML p80.
 
 - Jaccobian matrix and its determinant : 
 [proof](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 
-- determinant of matrix is equal to the product of its eigenvalues : 
-[proof](https://math.stackexchange.com/questions/507641/show-that-the-determinant-of-a-is-equal-to-the-product-of-its-eigenvalues) 
-using [characteristic polynomial of a square matrix](https://en.wikipedia.org/wiki/Characteristic_polynomial)
+- change of variables in random variables (probability density function) : 
+[this](https://en.wikipedia.org/wiki/Probability_density_function#Dependent_variables_and_change_of_variables)
 
 - 

@@ -5,7 +5,10 @@
 [proof](https://math.stackexchange.com/questions/82467/eigenvectors-of-real-symmetric-matrices-are-orthogonal)
 
 - Real symmetric matrices have real eigenvalues : 
-[proof](http://pi.math.cornell.edu/~jerison/math2940/real-eigenvalues.pdf)
+[proof](http://pi.math.cornell.edu/~jerison/math2940/real-eigenvalues.pdf) <br>
+matrix is positive definite if and only if all of its eigenvalues are positive :
+[statement](https://en.wikipedia.org/wiki/Definiteness_of_a_matrix#Eigenvalues)
+
 
 - Real symmetric matrices expressed in terms of its eigenvectors : 
 [proof](https://math.stackexchange.com/questions/331826/expressing-a-matrix-as-an-expansion-of-its-eigenvalues)

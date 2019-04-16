@@ -29,4 +29,14 @@ PRML p80.
 - change of variables in random variables (probability density function) : 
 [this](https://en.wikipedia.org/wiki/Probability_density_function#Dependent_variables_and_change_of_variables)
 
+- when LU factorization exist, it is unique (L is unit lower triangular) <br>
+(nonsymmetric) LU factorization <=> leading principle submatrices are all nonsingular <br>
+(symmetric) if the matrix is symmetric, LD(L^T) follows the necessary and sufficient condition <br>
+positive definite <=> LD(L^T) with positive diagonal entries in D <br>
+Cholesky Factorization (U^T)U where L is lower triangulare with positive diagonal entries <br>
+[all Theorem and proof](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF-MAT3350/h07/undervisningsmateriale/chap8slides.pdf)
+
 - 
+
+
+

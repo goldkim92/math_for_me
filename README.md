@@ -36,7 +36,9 @@ positive definite <=> LD(L^T) with positive diagonal entries in D <br>
 Cholesky Factorization (U^T)U where L is lower triangulare with positive diagonal entries <br>
 [all Theorem and proof](https://www.uio.no/studier/emner/matnat/ifi/nedlagte-emner/INF-MAT3350/h07/undervisningsmateriale/chap8slides.pdf)
 
-- 
+- matrix inversion lemma : [Woodbury matrix identity](https://en.wikipedia.org/wiki/Woodbury_matrix_identity)
+
+
 
 
 
